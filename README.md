@@ -1,2 +1,2 @@
 Hi, I'm Lenio.  
-Logistics worker • Full-stack learner - Building • learning • improving.
+Logistics worker • Software engineer learner - Building • learning • improving.
