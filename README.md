@@ -1,2 +1,7 @@
-Hi, I'm Lenio.  
-Logistics worker <-> Software engineer learner - Building • learning • improving.
+# Hi, I'm Lenio 👋
+
+I'm a logistics worker transitioning into software engineering.
+
+🌱 Learning and building with HTML, CSS, JavaScript and more.
+
+🚀 Building • Learning • Improving
